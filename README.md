@@ -34,7 +34,7 @@ MATLAB scripts: < 1 minute.
 4. Data Preparation
 Input data objects (~1.15 GB) required to run the code are available via GitHub Releases:
 
-Download: Access Data Assets (v1.0)
+Download: [Access Data Assets (v1.0)](https://github.com/fs2698-web/LN-on-a-chip-manuscript-code/releases/tag/v1.0)
 
 Setup: Place all .rds and .xlsx files into the data_demo/ folder as specified above.
 
