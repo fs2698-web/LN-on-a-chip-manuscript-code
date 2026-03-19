@@ -62,7 +62,7 @@ Example output files may be written to the `output_example/` folder, including p
 
 
 ## Data availability note
-Large raw data files and intermediate objects may not be included in this package. Raw sequencing data associated with the manuscript are available through the public repository described in the manuscript.
+Large raw data files and intermediate objects may not be included in this package. 
 
 ## License
 This code package is distributed under the MIT License unless otherwise noted.
